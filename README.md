@@ -1,0 +1,2 @@
+# ulbos-proekt
+sabaqliq bagdarlama
